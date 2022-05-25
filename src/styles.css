@@ -1,0 +1,17 @@
+.swiper-container {
+    width: 500px;
+}
+
+.swiper-pagination {
+    bottom: 0;
+    padding-bottom: 10px;
+}
+
+.swiper-wrapper {
+    padding-inline-start: 0;
+}
+
+.app {
+    max-width: 500px;
+    margin: 0 auto;
+}
